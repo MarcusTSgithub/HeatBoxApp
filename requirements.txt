@@ -20,7 +20,6 @@ pyserial==3.5
 python-dateutil==2.9.0.post0
 pytz==2024.1
 PyYAML==6.0.1
-serial==0.0.97
 setuptools==70.2.0
 six==1.16.0
 tzdata==2024.1
