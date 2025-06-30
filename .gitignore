@@ -18,8 +18,22 @@ venv/
 .idea/
 
 # OS files
-.DS_Store
+*.DS_Store
 Thumbs.db
 
 # Jupyter Notebook checkpoints
 .ipynb_checkpoints/
+
+# PyInstaller build artifacts
+build/
+dist/
+*.spec
+
+# Release zip files
+*.zip
+
+# Logs and temporary files
+*.log
+
+# Exclude zipped app builds if placed in root
+HeatBoxMain-*.zip
