@@ -51,7 +51,7 @@ class HeatBox:
         self.experiment_frame = None
         self.confirm_button = None
         self.stop_button = None
-        self.reset_button = None
+        # self.reset_button = None
         self.finished_experiment = False
 
         # save_frame
@@ -184,8 +184,8 @@ class HeatBox:
         self.stop_button = tk.Button(self.experiment_frame, text="Finish Experiment", command=self.finish_experiment)
         self.stop_button.grid(row=1, column=0, pady=5, sticky="ew")
 
-        self.reset_button = tk.Button(self.experiment_frame, text="Reset Data", command=self.reset_experiment)
-        self.reset_button.grid(row=2, column=0, pady=5, sticky="ew")
+        # self.reset_button = tk.Button(self.experiment_frame, text="Reset Data", command=self.reset_experiment)
+        # self.reset_button.grid(row=2, column=0, pady=5, sticky="ew")
 
     def create_save_location_frame(self):
         """Creates the save location section in the left frame."""
