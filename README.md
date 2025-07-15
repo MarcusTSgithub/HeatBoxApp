@@ -1,0 +1,2 @@
+Need to download "Firebase ESP32 Client" by Mobizt from the Arduino IDE Library Manager or from https://github.com/mobizt/Firebase-ESP32
+
