@@ -1,0 +1,6 @@
+{
+    "board": "arduino:avr:uno",
+    "sketch": "BiLAB_Heatbox.ino",
+    "port": "/dev/tty.usbmodem14201",
+    "output": "../build"
+}
