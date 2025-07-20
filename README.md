@@ -16,5 +16,5 @@ The written guide can also be found on the internal server at "INSECT lab\Marcus
 
 
 PS.
-Need to download "Firebase ESP32 Client" by Mobizt from the Arduino IDE Library Manager or from https://github.com/mobizt/Firebase-ESP32 for the ESP32 Arduino ino-file to work.
+Need to download "Firebase ESP32 Client" by Mobizt from the Arduino IDE Library Manager or from https://github.com/mobizt/Firebase-ESP32 for the ESP32 Arduino ino-file to work (shown how to do in the guide).
 
